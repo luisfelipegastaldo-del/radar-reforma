@@ -1,0 +1,26 @@
+rss:
+  - name: AgenciaCamara
+    url: https://www.camara.leg.br/rss/todas-as-noticias/
+  - name: AgenciaSenado
+    url: https://www12.senado.leg.br/noticias/rss
+  - name: ReceitaFederal
+    url: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/rss.xml
+  - name: AgenciaBrasil
+    url: https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml
+
+portais:
+  - name: PortalReforma_MF
+    url: https://www.gov.br/fazenda/pt-br/assuntos/reforma-tributaria/noticias
+
+palavras_chave:
+  - Reforma Tributária
+  - EC 132/2023
+  - LC 214/2025
+  - PLP 68/2024
+  - PLP 108/2024
+  - IBS
+  - CBS
+  - Imposto Seletivo
+  - cashback
+  - split payment
+  - Comitê Gestor do IBS
